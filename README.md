@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 はじめまして！gotti です
 
-<!--
-**github-gotti/github-gotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、フルスタックエンジニアを目指して日々学習＆開発中です。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 ポートフォリオ
+
+### 📝 ブログアプリ（Next.js × microCMS）
+
+- 技術構成：Next.js (App Router), TypeScript, Tailwind CSS, microCMS, Vercel
+- 概要：記事一覧・詳細ページあり。静的生成とAPI連携を学ぶために制作
+- 🔗 [アプリを開く](https://my-blog-app-umber.vercel.app/)
+- 💻 [GitHubリポジトリ](https://github.com/github-gotti/my-blog-app)
+
+---
+
+## 🛠 主なスキル
+
+- TypeScript / JavaScript
+- React / Next.js
+- Tailwind CSS
+- Git / GitHub
