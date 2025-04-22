@@ -6,12 +6,12 @@
 
 ## 📌 ポートフォリオ
 
-### 📝 ブログアプリ（Next.js × microCMS）
+### 📝 ブログアプリ（Next.js × contenlayer）
 
-- 技術構成：Next.js (App Router), TypeScript, Tailwind CSS, microCMS, Vercel
-- 概要：記事一覧・詳細ページあり。静的生成とAPI連携を学ぶために制作
-- 🔗 [アプリを開く](https://my-blog-app-umber.vercel.app/)
-- 💻 [GitHubリポジトリ](https://github.com/github-gotti/my-blog-app)
+- 技術構成：Next.js (App Router), TypeScript, Tailwind CSS, contentlayer, Vercel
+- 概要：記事一覧・詳細ページあり。
+- 🔗 [アプリを開く]()
+- 💻 [GitHubリポジトリ](https://github.com/github-gotti)
 
 ---
 
